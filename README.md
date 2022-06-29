@@ -1,6 +1,3 @@
-# kodluyoruzilkrepo
- "Kodluyoruz Eğitimi kapsamında açtığım ilk repo" 
-=======
 # Kodluyoruz ilk repo
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
@@ -34,4 +31,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 
-![Proje Fotoğrafı](proje_foto.png)
+![Proje Fotoğrafı](file:///Users/selinesinkokce/Documents/Project/kodluyoruzilkrepo/proje_foto.png)
