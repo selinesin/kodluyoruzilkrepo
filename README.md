@@ -31,4 +31,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 
-![Proje Fotoğrafı](file:///Users/selinesinkokce/Documents/Project/kodluyoruzilkrepo/proje_foto.png)
+![Proje Fotoğrafı](proje_foto.png)
