@@ -32,3 +32,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 ![Proje Fotoğrafı](proje_foto.png)
+
+www.patika.dev
